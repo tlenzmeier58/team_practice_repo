@@ -1,2 +1,4 @@
 # This is the main.py for branching and merging
-a = 100
+# Mai is testing this line
+a = 5
+variable_name = "compute"
